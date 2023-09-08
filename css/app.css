@@ -30,5 +30,17 @@
     opacity: 0;
 }
 
+.ex-5-square{
+    transition: 3s;
+}
 
+.ex-5-square:hover{
+    width: 120px;
+    height: 120px;
+}
+
+.ex-5-square:after{
+    width: 30px;
+    height: 30px;
+}
 
