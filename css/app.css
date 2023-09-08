@@ -44,3 +44,25 @@
     height: 30px;
 }
 
+.ex-6-img{
+    transition: 0.2s;
+}
+
+.ex-6-img:hover{
+    filter: hue-rotate(90deg) sepia(0.6) ;
+    border-radius: 10px;
+    
+}
+
+.ex-8-img{
+    transition: 0.2s;
+}
+
+.ex-8-img:hover{
+    filter: hue-rotate(90deg) brightness(0.25) ;
+    border-radius: 20px;
+    
+}
+
+
+
