@@ -117,6 +117,18 @@
     }
 }
 
+.ex-12-button{
+    animation:ciao 1s linear infinite;
+    transform: rotate(1turn);
+}
+
+.ex-12-bottom-white:hover{
+    position: absolute;
+    left: -10px;
+    animation:ciao 1s linear ;
+    transform: rotate(1turn);
+}
+
 
 
 
