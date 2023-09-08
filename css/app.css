@@ -64,5 +64,28 @@
     
 }
 
+.ex-9-img{
+    transition: 0.2s;
+}
 
+.ex-9-img:hover{
+    filter: hue-rotate(90deg) sepia(0.6) ;
+    border-radius: 20px;
+    transform: scale(1.4);
+}
+
+.ex-10-icon{    
+    transition-duration: 1s;
+    animation: cerchio;
+    animation-duration: 1s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite ;
+}
+
+@keyframes cerchio{
+    from{
+        transform: rotate(1turn);
+    }
+    
+}
 
