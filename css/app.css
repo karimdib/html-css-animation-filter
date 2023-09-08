@@ -126,8 +126,10 @@
     position: absolute;
     left: -10px;
     animation:ciao 1s linear ;
-    transform: rotate(1turn);
+    transform: rotate(1turn);/*ciao*/
 }
+
+
 
 
 
